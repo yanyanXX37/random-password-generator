@@ -2,6 +2,9 @@
 
 A sleek, functional, and responsive web application that generates secure passwords based on user-defined criteria. Built to practice **DOM manipulation** and **CSS Flexbox layout**.
 
+##  Live Preview  
+https://yanyanxx37.github.io/random-password-generator/
+
 
 ##  Features
 * **Customizable Length:** Set your password length from 1 to 25 characters.
@@ -14,7 +17,7 @@ A sleek, functional, and responsive web application that generates secure passwo
 * **CSS3:** Flexbox for centering, custom "card" styling, and error states.
 * **JavaScript (ES6):** Logic for randomizing characters and updating the DOM.
 
-## 💡What I Learned
+## What I Learned
 During this project, I strengthened my understanding of:
 1. **The DOM Bridge:** How to use `document.getElementById` to grab values from the UI and send them to JavaScript functions.
 2. **Case Sensitivity:** Learning the hard way that `Number()` and `number()` are not the same thing!
